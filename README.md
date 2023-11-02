@@ -23,7 +23,7 @@ Install my-project with npm
     
 ## Screenshots
 
-![App Screenshot](https://i.ibb.co/r6t6Mvs/Capture.png)
+![App Screenshot](https://i.ibb.co/HtxDc7Y/111.png)
 
 
 ## 🔗 Links
